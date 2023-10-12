@@ -5,7 +5,8 @@
 ### Виконання роботи
 - Результати виконання завдання *1...N*;
     1. [Створили файл з першою програмою `main.py`](main.py); 
-    1. Програма вивела значення: ![program](program.png);  
+    1. Програма вивела значення:
+       ![program](program.png);  
     1. Зробили [Python Notebook `nb.ipynb`](nb.ipynb) де працювали у jupiter notebook;
     1. Навчились створювати програми у Python та працювати у jupiter notebook.
 

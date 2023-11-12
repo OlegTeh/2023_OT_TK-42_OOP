@@ -17,7 +17,8 @@
 - Щоб змінити текст привітання потрібно змінити функцію def say_hello і вказати свій текст
 1. Допишіть функцію в класі яка порахує кількість букв і імені (підказка: використайте функцію len());
 -
-```def letters_numbers(self):
+```python
+def letters_numbers(self):
         if self.name:
             return len([char for char in self.name if char.isalpha()])
         else:

@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Портфоліо Олега Теглівця
-description: Роботи з предмету "Об'єктно-орієнтоване прогармування"
+description: Роботи з предмету "Об'єктно-орієнтоване програмування"
